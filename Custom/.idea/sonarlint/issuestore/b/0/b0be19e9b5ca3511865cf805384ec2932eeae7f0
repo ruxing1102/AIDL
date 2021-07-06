@@ -1,0 +1,13 @@
+
+€
+java:S1450"^Remove the "mBtnGetBookSize" field and declare it as a local variable in the relevant methods.(­ğ¥ƒıÿÿÿÿ8Ò¬ÕÍ§/
+|
+java:S1450"ZRemove the "mBtnAddBook" field and declare it as a local variable in the relevant methods.(¡Ú†“ùÿÿÿÿ8ÔÅ˜‰¦/
+t
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¨Œşÿÿÿÿ8¡ÄÚÍ§/
+d
+java:S1192?"GDefine a constant instead of duplicating this literal "ruxing" 4 times.(ÿúŞÎ8î–ÛÍ§/
+{
+java:S1450"^Remove the "mBtnGetBookList" field and declare it as a local variable in the relevant methods.(¿ñã…8ÔÅ˜‰¦/
+€
+java:S1450"cRemove the "mBtnGetFirstBookName" field and declare it as a local variable in the relevant methods.(òì¼Ì8Ò¬ÕÍ§/
